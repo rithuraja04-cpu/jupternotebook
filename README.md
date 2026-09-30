@@ -1,6 +1,6 @@
-# Logistic Regression using Machine Learning
+# Logistic Regression using Machine Learning on taiwan housing board
 
-The goal of the project is to predict in a region
+The goal of the project is to predict in a region 
 
 Tools used:
 * Python
